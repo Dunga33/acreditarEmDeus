@@ -60,7 +60,7 @@ main a {
 
 }
 main a:hover {
-    color: var(--cor1);
+    color: var(rgb(80, 80, 151));
     text-decoration: underline ;
 }
 header {
@@ -106,7 +106,7 @@ nav > a {
     transition-duration: 0.5s;
 }
 nav a:hover{
-    background-color: rgb(158, 221, 41);
+    background-color: rgb(119, 92, 216);
     color: var(--cor0);
 }
 main {
@@ -161,14 +161,12 @@ div.video > iframe{
 }
 
 aside{
-    background-color:green ;
+    background-color:rgb(172, 164, 170) ;
     padding: 10px;
     border-radius: 10px;
 }
-aside > ul{
-    list-style-position: inside;
-    columns:3;
-}
+
+
 footer {
     background-color:rgb(165, 102, 102);
     color: white;

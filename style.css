@@ -138,14 +138,13 @@ main img.pequena {
     
 }
 aside{
-    background-color:rgba(188, 202, 206, 0.596) ;
+    background-color:rgba(189, 162, 147, 0.596) ;
     padding: 10px;
     border-radius: 10px;
 }
 
-aside > p{
-    background-color: bisque;
-}
+
+
 footer {
     background-color:rgb(165, 102, 102);
     color: white;
