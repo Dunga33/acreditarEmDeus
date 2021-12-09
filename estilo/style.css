@@ -30,7 +30,7 @@
 
 
 body {
-   background-color:var(--cor2) ;
+   background-color:rgb(211, 211, 15) ;
    font-family: var(--fonte-padrão);
 }
 
